@@ -19,3 +19,12 @@ Enfin, nous avons transformé notre modèle en API pour obtenir une meilleur int
 ### Conclusions
 En comparant les résultats des différents algorithmes utilisés, on remarque que c'est l'algorithme de Random Forest qui nous donne les meilleurs prédictions.
 Nous pouvons donc prédire à près de 80% si une personne a déjà consommé du cannabis, du LSD, de l'ecstasie ou des champignons hallucinogènes en fonction des données sur sa personnalité et ses caractéristiques démographiques.
+
+
+
+
+### /!\ N.B. /!\
+
+Un de nos graphique ne s'affiche pas sur github mais il se trouve dans la slide 9 de la présentation et ci-dessous :
+![Capture d'écran_20221206_223810](https://user-images.githubusercontent.com/119936688/206028680-774a2ddd-2b2f-4c6e-84b2-a53b5348336b.png)
+
