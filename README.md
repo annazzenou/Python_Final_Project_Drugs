@@ -25,6 +25,6 @@ Nous pouvons donc prédire à près de 80% si une personne a déjà consommé du
 
 ### /!\ N.B. /!\
 
-Un de nos graphique ne s'affiche pas sur github mais il se trouve dans la slide 9 de la présentation et ci-dessous :
+Un de nos graphique ne s'affiche pas sur github mais il se trouve dans la slide 10 de la présentation et ci-dessous :
 ![Capture d'écran_20221206_223810](https://user-images.githubusercontent.com/119936688/206028680-774a2ddd-2b2f-4c6e-84b2-a53b5348336b.png)
 
